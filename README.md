@@ -20,7 +20,7 @@ A completely responsive IMDB like movie database made with ReactJS using TMDB AP
 ## Run Locally
 1. Clone this repo
 ```bash
-git clone https://github.com/nimone/react-imdb && cd react-imdb
+git clone https://github.com/Abdallah66hossam/Movie-App.git && cd Movie-App
 ```
 2. Install project dependecies
 ```bash
