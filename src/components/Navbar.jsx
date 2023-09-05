@@ -23,7 +23,10 @@ export default function Navbar({ darkMode, setDarkMode, brand }) {
               alt="The MovieDB attribution"
             />
           </a>
-          <a href="" target="_blank">
+          <a
+            href="https://github.com/Abdallah66hossam/Movie-App"
+            target="_blank"
+          >
             <img
               className="w-8"
               src={darkMode ? GithubLogoLight : GithubLogoDark}
